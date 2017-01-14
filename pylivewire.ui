@@ -6,20 +6,20 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>400</width>
-    <height>300</height>
+    <width>799</width>
+    <height>604</height>
    </rect>
   </property>
   <property name="windowTitle">
    <string>Form</string>
   </property>
-  <widget class="PlotWidget" name="graphicsView">
+  <widget class="PlotWidget" name="imgView">
    <property name="geometry">
     <rect>
      <x>10</x>
      <y>10</y>
-     <width>256</width>
-     <height>192</height>
+     <width>521</width>
+     <height>581</height>
     </rect>
    </property>
   </widget>
